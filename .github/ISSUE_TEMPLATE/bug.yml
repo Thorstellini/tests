@@ -1,0 +1,10 @@
+name: Report a Bug
+description: ...
+labels: [bug]
+title: Report A Bug
+
+body:
+  - type: Textarea
+    attributes:
+      label: Description
+      placeholder: ...
