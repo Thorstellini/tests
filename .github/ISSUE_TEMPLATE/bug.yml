@@ -4,7 +4,7 @@ labels: [bug]
 title: Report A Bug
 
 body:
-  - type: Textarea
+  - type: textarea
     attributes:
       label: Description
       placeholder: ...
