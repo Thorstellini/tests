@@ -1,1 +1,14 @@
 blank_issues_enabled: False
+
+contact_links:
+  - name: 💬 Discord Support
+    url: https://discord.gg/xyz
+    about: Please ask general questions here.
+
+  - name: 📖 Documentation
+    url: https://example.com/docs
+    about: Read the documentation before opening an issue.
+
+  - name: 🔐 Security Issues
+    url: https://example.com/security
+    about: Report security vulnerabilities privately.
